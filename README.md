@@ -1,7 +1,21 @@
-# OvaBloom 🌸
-AI-powered Personal Health Companion for Women with PCOS
+
+# 🌻 OvaBloom 🌻
+### AI-powered Personal Health Companion for Women with PCOS
 
 OvaBloom is an AI-driven platform designed to support women navigating Polycystic Ovary Syndrome (PCOS). More than just a period tracker, OvaBloom combines medical insights, emotional wellness tools, and privacy-first AI features to offer personalized, compassionate care — all in one place.
+
+# 🖼️ Gallery
+![Landing](./frontend/public/gallery/landing.png)
+![Landing2](./frontend/public/gallery/landing2.png)
+
+## Detection using USG 
+![usg](./frontend/public/gallery/usg.png)
+
+## Detection using Clinical and Physical Report Data
+![candp](./frontend/public/gallery/candp.png)
+
+## Life-Management Recommendations
+![recs](./frontend/public/gallery/recommend.png)
 
 # ✨ Features
 🧠 PCOS Risk Prediction: Upload clinical data or ultrasound images for real-time PCOS prediction using ML models (XGBoost, CNN).
